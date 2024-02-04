@@ -17,3 +17,4 @@
 - [*Справочник JavaScript(RU)*](https://code.mu/ru/javascript/manual/)
 - [*Визуальная шпаргалка по методам*](https://only-to-top.ru/blog/coding/2020-12-30-js-array-cheatsheet.html)
 - [*Куча шпаргалок по JS, классам, методам и не только*](https://github.com/virdginiya1903/Frontend-Information?tab=readme-ov-file#JavaScript)
+- [**Наглядная шпаргалка по методам массивов**](https://qlid.ru/articles/31808/)

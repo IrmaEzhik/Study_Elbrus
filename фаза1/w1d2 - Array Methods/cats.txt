@@ -1,0 +1,7 @@
+Siro male 5
+Alisa female 5
+Bruce male 6
+Kokos male 5
+Pryanic male 1
+Murka female 3
+Sonya female 1

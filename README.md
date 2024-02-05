@@ -44,7 +44,7 @@
 - [**Date**](https://doka.guide/js/date/)
 - [*Работа с объектом Date*](https://www.internet-technologies.ru/articles/rabota-s-obektom-date-v-javascript.html)
 
-📌 p1w1d5 - Git
+#### 📌 p1w1d5 - Git
 ### Подробная инструкция по работе с Git
 - [Работа с git](https://github.com/Elbrus-Bootcamp/git-steps/blob/master/README.md)
 - [Видео о том, как работать с гитом на групповом проекте](https://youtu.be/t0-73o0rVN4)

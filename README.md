@@ -3,6 +3,7 @@
 ## Постараюсь дополнять
 
 ### 🎞 Навигация по заметкам
+
 <details>
   <summary>📌 p1w1d1 - Node, NPM, FS (материалы, код)</summary>
   
@@ -72,4 +73,19 @@
   - git push origin mybranch
   - На github.com нажать "New pull request"
   - Попросить товарища проверить pull-request
+</details>
+
+<details>
+  <summary>📌 p1w2d1 - classes, static, obj</summary>
+
+- [**Конспект**](фаза1/w2d1%20-%20classes,%20static,%20obj/конспект.md)
+- [*Решение задач*](фаза1/w2d1%20-%20classes,%20static,%20obj/)
+- [*Презентация*](https://docs.google.com/presentation/d/1UjLUAWAI9bYhwDdVZcqs2oLPwuO3WNE1/edit#slide=id.p1)
+- [**Об объектах простыми словами**](https://doka.guide/js/object/)
+- [**Подробный удобный гайд по объектам**](https://itchief.ru/javascript/objects)
+
+- [*Apply /Call/ This - это...(подробно)*](https://thecode.media/this/#:~:text=%D0%9A%D0%BB%D1%8E%D1%87%D0%B5%D0%B2%D0%BE%D0%B5%20%D1%81%D0%BB%D0%BE%D0%B2%D0%BE%20this%20%E2%80%94%20%D0%BE%D0%B4%D0%BD%D0%B0%20%D0%B8%D0%B7,%D0%BE%D1%82%20%D1%82%D0%BE%D0%B3%D0%BE%2C%20%D0%B3%D0%B4%D0%B5%20%D0%BE%D0%BD%D0%BE%20%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%BE.)
+- [*Apply /Call/ This - это...(коротко)*](https://javascript.ru/tutorial/object/thiskeyword)
+- [*Класс в JavaScript: базовый синтаксис и примеры. Часть первая*](https://elbrusboot.camp/blog/klass-v-javascript-bazovyi-sintaksis-i-primiery/)
+- [*Класс в JavaScript: базовый синтаксис и примеры. Часть вторая*](https://elbrusboot.camp/blog/klass-v-javascript-bazovyi-sintaksis-i-primiery-chast-vtoraia/)
 </details>

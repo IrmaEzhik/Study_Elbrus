@@ -86,6 +86,18 @@
 
 - [*Apply /Call/ This - это...(подробно)*](https://thecode.media/this/#:~:text=%D0%9A%D0%BB%D1%8E%D1%87%D0%B5%D0%B2%D0%BE%D0%B5%20%D1%81%D0%BB%D0%BE%D0%B2%D0%BE%20this%20%E2%80%94%20%D0%BE%D0%B4%D0%BD%D0%B0%20%D0%B8%D0%B7,%D0%BE%D1%82%20%D1%82%D0%BE%D0%B3%D0%BE%2C%20%D0%B3%D0%B4%D0%B5%20%D0%BE%D0%BD%D0%BE%20%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%BE.)
 - [*Apply /Call/ This - это...(коротко)*](https://javascript.ru/tutorial/object/thiskeyword)
-- [*Класс в JavaScript: базовый синтаксис и примеры. Часть первая*](https://elbrusboot.camp/blog/klass-v-javascript-bazovyi-sintaksis-i-primiery/)
+- [*Класс в JavaScript: базовый синтаксис и примеры. Часть первая*](https://elbrusboot.camp/blog/
+klass-v-javascript-bazovyi-sintaksis-i-primiery/)
 - [*Класс в JavaScript: базовый синтаксис и примеры. Часть вторая*](https://elbrusboot.camp/blog/klass-v-javascript-bazovyi-sintaksis-i-primiery-chast-vtoraia/)
+</details>
+
+<details>
+  <summary>📌 p1w2d2 - set,get,mvc,private</summary>
+  
+- [**Конспект**](фаза1/w2d2%20-%20set,get,mvc,private/конспект.md)
+- [*Решение задач*](фаза1/w2d2%20-%20set,get,mvc,private/)
+- [*Презентация*](https://docs.google.com/presentation/d/1IfBB8rU_mkjS80UF5khfxdjlD2vUkRb6/edit#slide=id.p1)
+- [*Крутое объяснение что такое Приватные свойства и методы на примере игры*](https://thecode.media/new-oop-private/)
+- [*Крутое объяснение что такое Геттеры и Сеттеры*](https://thecode.media/getter/)
+- [*Свойства и методы доступа (set/get). Подробно и понятно*](https://metanit.com/web/javascript/4.14.php)
 </details>

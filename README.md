@@ -122,3 +122,14 @@
 - [*Как использовать Fetch вместе с async/await*](https://www.cat-in-web.ru/fetch-async-await/)
 - [*Асинхронность Event loop*](https://www.jscamp.app/ru/docs/javascript25)
 </details>
+
+<details>
+  <summary>📌 p1w3d1 - SQL</summary>
+
+- [**Конспект**](фаза1/w3d1%20-%20SQL/конспект.md)
+- [*Решение задач*](фаза1/w3d1%20-%20SQL/)
+- [*Презентация*](https://docs.google.com/presentation/d/1WkE57PcNm7KxSExdsQDSgJBzV6FFuUJp/edit#slide=id.g25628f41299_0_104)
+- [*Как работает язык SQL*](https://thecode.media/mysql-uroot-p/)
+- [*практическая шпаргалка SQL (SQLite) с готовыми запросами*](https://habr.com/ru/articles/792630/#0)
+- [*SQL-шпаргалка - основные запросы*](https://antonz.ru/sql-cheatsheet/)
+</details>

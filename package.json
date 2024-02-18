@@ -6,6 +6,7 @@
     "eslint-plugin-import": "^2.29.1"
   },
   "dependencies": {
+    "inquirer": "^8.0.0",
     "libphonenumber-js": "^1.10.55"
   }
 }

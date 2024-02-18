@@ -133,3 +133,13 @@
 - [*практическая шпаргалка SQL (SQLite) с готовыми запросами*](https://habr.com/ru/articles/792630/#0)
 - [*SQL-шпаргалка - основные запросы*](https://antonz.ru/sql-cheatsheet/)
 </details>
+
+<details>
+  <summary>📌 p1w3d2 - Sequelize CLI</summary>
+
+- [**Конспект**](фаза1/w3d2%20-%20Sequelize%20CLI/конспект.md)
+- [*Решение задач*](фаза1/w3d2%20-%20Sequelize%20CLI/)
+- [*Презентация*](https://docs.google.com/presentation/d/19DPZwVf7ZM7B5RhPdparV_rREf4Hv32l/edit#slide=id.g256f771efcb_0_406)
+- [**Шпаргалка по БД**](фаза1/w3d2%20-%20Sequelize%20CLI/Шпаргалка%20по%20БД.md)
+- [*sequelize_intro*](https://github.com/Elbrus-Bootcamp/sequelize_intro)
+</details>

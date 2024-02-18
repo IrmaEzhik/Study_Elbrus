@@ -143,3 +143,11 @@
 - [**Шпаргалка по БД**](фаза1/w3d2%20-%20Sequelize%20CLI/Шпаргалка%20по%20БД.md)
 - [*sequelize_intro*](https://github.com/Elbrus-Bootcamp/sequelize_intro)
 </details>
+
+<details>
+  <summary>📌 p1w3d3 - Many-To-Many, Seeders</summary>
+
+- [**Конспект**](фаза1/w3d3%20-%20Many-To-Many/конспект.md)
+- [*Решение задач*](фаза1/w3d3%20-%20Many-To-Many/)
+- [*Презентация*](https://docs.google.com/presentation/d/1VhKg1VZQTIuNVNaJemuZzQSKE1LX29-L/edit#slide=id.g256f65624b5_0_104)
+</details>

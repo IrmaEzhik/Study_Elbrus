@@ -151,3 +151,12 @@
 - [*Решение задач*](фаза1/w3d3%20-%20Many-To-Many/)
 - [*Презентация*](https://docs.google.com/presentation/d/1VhKg1VZQTIuNVNaJemuZzQSKE1LX29-L/edit#slide=id.g256f65624b5_0_104)
 </details>
+
+<details>
+  <summary>📌 p1w3d4 - .env</summary>
+
+- [**Конспект**](фаза1/w3d4%20-%20env/конспект.md)
+- [*Решение задач*](фаза1/w3d4%20-%20env/)
+- [*Презентация*](https://docs.google.com/presentation/d/1c_T_ARuJhqFDVgTLa7Xlj4AAgWqSpSor/edit#slide=id.g284d10f3407_1_104)
+- [*Пример и гайды по связям "один ко многим" и "многие ко многим"*](https://github.com/Elbrus-Bootcamp/sequelize-relations-example)
+</details>

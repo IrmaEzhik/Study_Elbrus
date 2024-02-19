@@ -160,3 +160,12 @@
 - [*Презентация*](https://docs.google.com/presentation/d/1c_T_ARuJhqFDVgTLa7Xlj4AAgWqSpSor/edit#slide=id.g284d10f3407_1_104)
 - [*Пример и гайды по связям "один ко многим" и "многие ко многим"*](https://github.com/Elbrus-Bootcamp/sequelize-relations-example)
 </details>
+
+<details>
+  <summary>📌 p2w1d1 - EXPRESS / SSR</summary>
+
+- [**Конспект**](фаза2/w1d1%20-%20EXPRESS,%20SSR/конспект.md)
+- [*Команды для терминала*](фаза2/w1d1%20-%20EXPRESS,%20SSR/команды%20для%20терминала.md)
+- [*Презентация*](https://docs.google.com/presentation/d/1pzeDgSnhY4secYSBWdUL8PpxNyITmkpF/edit#slide=id.p2)
+- [*Пример кода*](https://github.com/IrmaEzhik/todo-list-ssr)
+</details>

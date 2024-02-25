@@ -2,6 +2,9 @@
 
 ## Постараюсь дополнять
 
+[<font color="violet">**ЦАРЬ ШПОРГАЛКА - ФАЗА 2**</font>](фаза2/w1%20-%20ЦАРЬ%20ШПОРГАЛКА/Всё%20с%20нуля.md)
+
+
 ### 🎞 Навигация по заметкам
 
 <details>
@@ -165,7 +168,15 @@
   <summary>📌 p2w1d1 - EXPRESS / SSR</summary>
 
 - [**Конспект**](фаза2/w1d1%20-%20EXPRESS,%20SSR/конспект.md)
+- [**Конспект2**](фаза2/w1d1%20-%20EXPRESS,%20SSR/конспект2(не%20мой).md)
 - [*Команды для терминала*](фаза2/w1d1%20-%20EXPRESS,%20SSR/команды%20для%20терминала.md)
 - [*Презентация*](https://docs.google.com/presentation/d/1pzeDgSnhY4secYSBWdUL8PpxNyITmkpF/edit#slide=id.p2)
 - [*Пример кода*](https://github.com/IrmaEzhik/todo-list-ssr)
+</details>
+
+<details>
+  <summary>📌 p2w1d2-5- общие конспекты</summary>
+
+- [**Bootstrap, Middlewares**](фаза2/w1.d2-4/Bootstrap,%20Middlewares.md)
+- [**Ajax, Fetch, Env**](фаза2/w1.d2-4/Ajax,%20Fetch,%20Env.md)
 </details>
